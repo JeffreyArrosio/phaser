@@ -10,7 +10,7 @@ on:
 jobs:
   build:
     name: to github pages
-    runs-on: ubuntu-lastest
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
