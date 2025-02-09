@@ -13,7 +13,7 @@
     "bugs": {
         "url": "https://github.com/phaserjs/template-vite/issues"
     },
-    "homepage": "https://jeffreyarrosio.github.io/phaser/",
+    "homepage": "https://github.com/phaserjs/template-vite#readme",
     "scripts": {
         "dev": "node log.js dev & vite --config vite/config.dev.mjs",
         "build": "node log.js build & vite build --config vite/config.prod.mjs",
