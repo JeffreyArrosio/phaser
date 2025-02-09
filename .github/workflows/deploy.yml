@@ -20,7 +20,7 @@ jobs:
           node-version: "20" 
 
       - name: Packeges
-        run: npm install
+        run: npm ci
 
       - name: Bundle
         run: npm run build
